@@ -1,0 +1,8 @@
+# .gitignore
+
+# Java class files
+
+*.class
+
+#temp sub-directory (ended a directory separator)
+temp/
